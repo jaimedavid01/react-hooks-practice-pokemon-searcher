@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-hooks-practice-pokemon-searcher/static/css/main.e65a7a8e.chunk.css",
+    "main.js": "/react-hooks-practice-pokemon-searcher/static/js/main.b1eae86d.chunk.js",
+    "main.js.map": "/react-hooks-practice-pokemon-searcher/static/js/main.b1eae86d.chunk.js.map",
+    "runtime-main.js": "/react-hooks-practice-pokemon-searcher/static/js/runtime-main.eb320c54.js",
+    "runtime-main.js.map": "/react-hooks-practice-pokemon-searcher/static/js/runtime-main.eb320c54.js.map",
+    "static/css/2.4969c001.chunk.css": "/react-hooks-practice-pokemon-searcher/static/css/2.4969c001.chunk.css",
+    "static/js/2.d439a1de.chunk.js": "/react-hooks-practice-pokemon-searcher/static/js/2.d439a1de.chunk.js",
+    "static/js/2.d439a1de.chunk.js.map": "/react-hooks-practice-pokemon-searcher/static/js/2.d439a1de.chunk.js.map",
+    "index.html": "/react-hooks-practice-pokemon-searcher/index.html",
+    "static/css/2.4969c001.chunk.css.map": "/react-hooks-practice-pokemon-searcher/static/css/2.4969c001.chunk.css.map",
+    "static/css/main.e65a7a8e.chunk.css.map": "/react-hooks-practice-pokemon-searcher/static/css/main.e65a7a8e.chunk.css.map",
+    "static/js/2.d439a1de.chunk.js.LICENSE.txt": "/react-hooks-practice-pokemon-searcher/static/js/2.d439a1de.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/react-hooks-practice-pokemon-searcher/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/pokemongif.6f226267.gif": "/react-hooks-practice-pokemon-searcher/static/media/pokemongif.6f226267.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb320c54.js",
+    "static/css/2.4969c001.chunk.css",
+    "static/js/2.d439a1de.chunk.js",
+    "static/css/main.e65a7a8e.chunk.css",
+    "static/js/main.b1eae86d.chunk.js"
+  ]
+}
