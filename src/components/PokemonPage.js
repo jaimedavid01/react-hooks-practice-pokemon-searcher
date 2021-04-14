@@ -11,7 +11,7 @@ function PokemonPage() {
   const [searchTerm, setSearchTerm] = useState("");
 
   useEffect(() => {
-    fetch("http://localhost:3001/pokemon")
+    fetch("https://pokemondb01.herokuapp.com/pokemon")
       .then((r) => r.json())
       .then(setPokemon);
   }, []);

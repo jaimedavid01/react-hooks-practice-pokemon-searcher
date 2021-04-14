@@ -18,7 +18,10 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "json-server --watch db.json -p 3001 & open http://localhost:3001/pokemon & react-scripts start && fg"
+    "start": "json-server --watch db.json -p 3001 & open http://localhost:3001/pokemon & react-scripts start && fg",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

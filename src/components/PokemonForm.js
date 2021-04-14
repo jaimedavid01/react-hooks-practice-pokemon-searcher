@@ -28,7 +28,7 @@ function PokemonForm({ onAddPokemon }) {
       },
     };
 
-    fetch("http://localhost:3001/pokemon", {
+    fetch("https://pokemondb01.herokuapp.com/pokemon", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
