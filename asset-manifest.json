@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-hooks-practice-pokemon-searcher/static/css/main.e65a7a8e.chunk.css",
-    "main.js": "/react-hooks-practice-pokemon-searcher/static/js/main.b1eae86d.chunk.js",
-    "main.js.map": "/react-hooks-practice-pokemon-searcher/static/js/main.b1eae86d.chunk.js.map",
+    "main.js": "/react-hooks-practice-pokemon-searcher/static/js/main.ae4d77cf.chunk.js",
+    "main.js.map": "/react-hooks-practice-pokemon-searcher/static/js/main.ae4d77cf.chunk.js.map",
     "runtime-main.js": "/react-hooks-practice-pokemon-searcher/static/js/runtime-main.eb320c54.js",
     "runtime-main.js.map": "/react-hooks-practice-pokemon-searcher/static/js/runtime-main.eb320c54.js.map",
     "static/css/2.4969c001.chunk.css": "/react-hooks-practice-pokemon-searcher/static/css/2.4969c001.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4969c001.chunk.css",
     "static/js/2.d439a1de.chunk.js",
     "static/css/main.e65a7a8e.chunk.css",
-    "static/js/main.b1eae86d.chunk.js"
+    "static/js/main.ae4d77cf.chunk.js"
   ]
 }
