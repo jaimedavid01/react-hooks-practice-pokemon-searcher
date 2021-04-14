@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.1"
@@ -13,8 +14,7 @@
     "json-server": "^0.15.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "server": "json-server --watch db.json -p 3001"
+    "start": "json-server --watch db.json -p 3001 & open http://localhost:3001/pokemon & react-scripts start && fg"
   },
   "eslintConfig": {
     "extends": [
