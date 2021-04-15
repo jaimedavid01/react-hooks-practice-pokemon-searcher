@@ -26,18 +26,16 @@ function PokemonPage() {
 
   return (
     <Container>
-      <Link to="/">  
-        <div className="btn">
-            <p>X</p>
-        </div>
-     </Link>
+     <a href="https://jaimeportfolio.herokuapp.com/">
+        <div className="btn"><p className="p">X</p></div>
+     </a>
       <Link to="/">  
       <div className="btn2">
        <p>X</p>
         </div>
      </Link>
       <h1>Pokemon Searcher</h1>
-      <br />
+      <br /><p>* Data may take a few seconds to fetch *</p>
 
       <PokemonForm onAddPokemon={handleAddPokemon} />
       <br />
